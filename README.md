@@ -1,10 +1,10 @@
 <pre>
-                 _                  _ _____ _ _ 
- _ __  _ __ ___ (_)_   ____ _ _ __ / |___  / / |
-| '_ \| '__/ _ \| \ \ / / _` | '_ \| |  / /| | |
-| |_) | | | (_) | |\ V / (_| | | | | | / / | | |
-| .__/|_|  \___/|_| \_/ \__,_|_| |_|_|/_/  |_|_|
-|_|                                             
+-----BEGIN OPENSSH PRIVATE KEY-----
+b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+QyNTUxOQAAACAIThjUccxyTC2Q2ScJruBWDL6887++rYxUpU9MtMlUJQAAALBM3uCETN7g
+hAAAAAtzc2gtZWQyNTUxOQAAACAIThjUccxyTC2Q2ScJruBWDL6887++rYxUpU9MtMlUJQ
+AAAEAdE/SSNJlYJ8OW8ZXgvGPQnbMdAfg4wROq3jRvyEF0HwhOGNRxzHJMLZDZJwmu4FYM
+vrzzv76tjFSlT0y0yVQlAAAAK2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3dhdGNoP3Y9ZF
+F3NHc5V2dYY1EBAg==
+-----END OPENSSH PRIVATE KEY-----
 </pre>
-I'm becoming full stack dev.
-### Currently: Rust
